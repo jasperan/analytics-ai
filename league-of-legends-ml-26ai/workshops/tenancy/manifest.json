@@ -1,0 +1,70 @@
+{
+    "workshoptitle": "Can AI Win League of Legends? Machine Learning with OCI and Oracle AI Database 26ai",
+    "help": "livelabs-help-analytics_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Get Started",
+            "filename": "https://livelabs.oracle.com/cdn/common/labs/cloud-login/cloud-login.md"
+        },
+        {
+            "title": "Lab 1: Prepare Your Workspace",
+            "filename": "../../setup/setup.md",
+            "type": {
+                "linux": "Linux",
+                "windows": "Windows"
+            }
+        },
+        {
+            "title": "Lab 2: Meet the Data",
+            "filename": "../../data/data.md"
+        },
+        {
+            "title": "Lab 3 (Optional): Extract Your Own Matches from the Riot API",
+            "filename": "../../extract/extract.md"
+        },
+        {
+            "title": "Lab 4: Baselines with scikit-learn",
+            "filename": "../../baseline/baseline.md"
+        },
+        {
+            "title": "Lab 5: AutoML with AutoGluon",
+            "filename": "../../autogluon/autogluon.md"
+        },
+        {
+            "title": "Lab 6: Neural Networks with PyTorch and fastai",
+            "filename": "../../neural-network/neural-network.md"
+        },
+        {
+            "title": "Lab 7: Leakage and Honest Evaluation",
+            "filename": "../../leakage/leakage.md"
+        },
+        {
+            "title": "Lab 8: Serve the Model",
+            "filename": "../../serving/serving.md"
+        },
+        {
+            "title": "Lab 9: Connect to Autonomous AI Database 26ai",
+            "filename": "../../database-connect/connect-tenancy.md"
+        },
+        {
+            "title": "Lab 10: Query, Search and Score in the Database",
+            "filename": "../../database/database.md"
+        },
+        {
+            "title": "Lab 11 (Optional): An AI Coach with OCI Generative AI",
+            "filename": "../../genai-coach/genai-coach.md"
+        },
+        {
+            "title": "Clean Up",
+            "filename": "../../clean-up/clean-up-tenancy.md"
+        },
+        {
+            "title": "Need Help?",
+            "filename": "https://livelabs.oracle.com/cdn/common/labs/need-help/need-help-freetier.md"
+        }
+    ]
+}
