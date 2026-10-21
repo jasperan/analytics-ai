@@ -76,7 +76,7 @@ This lab assumes you have:
 
     ```bash
     <copy>
-    git clone https://github.com/oracle-devrel/leagueoflegends-optimizer.git
+    git clone -b livelabs-revamp-2026 https://github.com/jasperan/leagueoflegends-optimizer.git
     cd leagueoflegends-optimizer/lol-ml-26ai
     </copy>
     ```
@@ -179,7 +179,7 @@ Choose this option if you cannot install software on your computer, or if you wa
     ```bash
     <copy>
     conda activate /home/datascience/conda/generalml_p312_cpu_x86_64_v4
-    git clone https://github.com/oracle-devrel/leagueoflegends-optimizer.git
+    git clone -b livelabs-revamp-2026 https://github.com/jasperan/leagueoflegends-optimizer.git
     cd leagueoflegends-optimizer/lol-ml-26ai
     pip install -r requirements.txt
     python -m ipykernel install --user --name lolml --display-name "lolml (Python 3.12)"
