@@ -33,7 +33,7 @@ The scripts live in the `workshops/yolo26_object_detection_26ai` folder of the `
 
     ```bash
     <copy>
-    git clone --depth 1 --filter=blob:none --sparse https://github.com/oracle-devrel/ai-solutions.git
+    git clone --depth 1 --filter=blob:none --sparse -b livelabs-yolo26-revamp https://github.com/jasperan/ai-solutions.git
     cd ai-solutions
     git sparse-checkout set workshops/yolo26_object_detection_26ai
     cd workshops/yolo26_object_detection_26ai
