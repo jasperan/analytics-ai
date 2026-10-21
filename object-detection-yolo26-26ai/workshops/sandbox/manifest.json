@@ -1,0 +1,62 @@
+{
+    "workshoptitle": "Build a Real-Time Object Detector with YOLO26, OCI and Oracle AI Database 26ai",
+    "help": "ignacio.m.martinez@oracle.com",
+    "tutorials": [
+        {
+            "title": "Get Started",
+            "filename": "https://livelabs.oracle.com/cdn/common/labs/cloud-login/cloud-login-livelabs2.md"
+        },
+        {
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: Set Up Your Workstation and Get the Dataset",
+            "filename": "../../setup/setup.md"
+        },
+        {
+            "title": "Lab 2: Label, Pre-Label and Check Your Data",
+            "filename": "../../labeling/labeling.md"
+        },
+        {
+            "title": "Lab 3: Train YOLO26 and Measure Augmentation",
+            "filename": "../../train/train.md"
+        },
+        {
+            "title": "Lab 4: Evaluate the Model and Find Its Mistakes",
+            "filename": "../../evaluate/evaluate.md"
+        },
+        {
+            "title": "Lab 5: Real-Time Inference",
+            "filename": "../../infer/infer.md"
+        },
+        {
+            "title": "Lab 6: Provision Autonomous AI Database 26ai",
+            "filename": "../../provision-adb/provision-adb-sandbox.md"
+        },
+        {
+            "title": "Lab 7: Store Detection Events in Oracle AI Database 26ai",
+            "filename": "../../store-events/store-events.md"
+        },
+        {
+            "title": "Lab 8: Find Similar Frames with AI Vector Search",
+            "filename": "../../vector-search/vector-search.md"
+        },
+        {
+            "title": "Lab 9 (Optional): Ask the Database in Plain English with Select AI",
+            "filename": "../../select-ai/select-ai.md"
+        },
+        {
+            "title": "Lab 10 (Optional): Write a Compliance Summary with OCI Generative AI",
+            "filename": "../../genai-summary/genai-summary.md"
+        },
+        {
+            "title": "Clean Up",
+            "filename": "../../clean-up/clean-up-sandbox.md"
+        },
+        {
+            "title": "Need Help?",
+            "filename": "https://livelabs.oracle.com/cdn/common/labs/need-help/need-help-livelabs.md"
+        }
+    ]
+}
